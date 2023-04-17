@@ -1,0 +1,72 @@
+{
+  "dyndns" : {
+    "displayName" : "-"
+  },
+  "sslOnlyAllowTLS" : false,
+  "documentRoot" : "\/Users\/sebastianbaronbarbosa\/Sites\/minsmajobb",
+  "denyNginx" : 0,
+  "denyRulesNginx" : "",
+  "clouds" : {
+    "Dropbox" : {
+      "cloudName" : "Dropbox",
+      "cloudStatus" : 0,
+      "cloudFileRev" : "5f96191c59b9ab7f4bce1",
+      "cloudLastSave" : "2023-04-15T15:25:01Z",
+      "cloudFileSize" : 132331843,
+      "cloudFileId" : "id:b8hz7UDk1TYAAAAAAAAACQ"
+    },
+    "OneDrive" : {
+      "cloudName" : "OneDrive",
+      "cloudStatus" : 0
+    }
+  },
+  "Require" : 0,
+  "phpVersion" : {
+    "versionString" : "7.4.21",
+    "isDefaultEntry" : true,
+    "displayName" : "Default (7.4.21)"
+  },
+  "MultiViews" : false,
+  "SymLinksifOwnerMatch" : false,
+  "additionalNginx" : "",
+  "local" : true,
+  "ExecCGI" : false,
+  "uuid" : "F915B1E1-A36B-40A9-B572-BFF4CDDC595C",
+  "installedExtras" : [
+
+  ],
+  "Indexes" : false,
+  "autoIndexNginx" : false,
+  "certificateKey" : "\/Applications\/MAMP\/Library\/OpenSSL\/certs\/minsmåjobb.key",
+  "serverAccount" : {
+    "address" : "ftx658-02.stwserver.net",
+    "protocol" : 2,
+    "port" : 21,
+    "siteURLString" : "http:\/\/minsmajobb.no\/design\/html_pages",
+    "documentRootPath" : "design\/html_pages",
+    "uuid" : "693440921573465",
+    "privateKeyPath" : "",
+    "username" : "designer"
+  },
+  "allowNginx" : 0,
+  "bonjour" : false,
+  "certificate" : "\/Applications\/MAMP\/Library\/OpenSSL\/certs\/minsmåjobb.crt",
+  "sslAllowHttp" : false,
+  "useWithNginx" : false,
+  "useWithApache" : true,
+  "serverName" : "minsmåjobb",
+  "Includes" : true,
+  "allowRulesNginx" : "",
+  "usesRemoteServer" : true,
+  "databases" : [
+
+  ],
+  "FollowSymLinks" : true,
+  "namo" : false,
+  "AllowOverride" : 0,
+  "serverAliases" : [
+
+  ],
+  "IncludesNOEXEC" : false,
+  "ssl" : true
+}
