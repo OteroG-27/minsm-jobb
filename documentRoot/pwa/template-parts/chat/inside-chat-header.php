@@ -30,6 +30,6 @@
 			</div>
 		</div>
 		<!--<a href="Helper-chat-Normal.html" class="details"><i class="fas fa-list-ul"></i></a>-->
-		<a href="#" data-toggle="modal"  data-dismiss="modal" data-target="#profile" ><i class="fas fa-refresh icon-xl mr-3"></i></a>
+		<a href="#" id="openLoading"><i class="fas fa-refresh icon-xl mr-3"></i></a>
 		<a href="#" data-toggle="modal"  data-dismiss="modal" data-target="#profile" ><i class="fas fa-info-circle icon-xl"></i></a>
 	</div> 
