@@ -25,10 +25,10 @@
 	}
 	?>
 	<?php if ($hasnavbar == true){include('template-parts/navigation.php');}?>
-	<?php/* if ($headerContent == false){include('template-parts/navigation.php');}else{include('template-parts/navigation.php');}*/?>
+	<!-- <?php if ($headerContent == false){include('template-parts/navigation.php');}else{include('template-parts/navigation.php');}?> -->
 	
 	<header id="page-header" class="<?php echo ($header_class);?>">
-		<div class="d-flex justify-content-<?php if ($headerSingle == true){echo('center');}else{echo('between');}?>">
+		<div class="d-flex justify-content-between">
 			<div class="d-flex justify-content-between">
 				<?php if(empty($hasback)){}else{echo('<a href="'.$backURL.'" class="d-flex align-items-center"><i class="fa-solid fa-chevron-left" style=font-size:24px></i></a>');}?>
 				<?php if (empty($heading_pwa)) {

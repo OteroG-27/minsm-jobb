@@ -17,6 +17,7 @@ $profilePicter_URI = '../images/samples/profile-sample-1.png';
 //dicount cards launched?
 $discountsLaunched = false;
 $os_type = 'ios';
+
 ?>
 <?php include ('template-parts/head.php')?>
 <!--PAGE CONTENT-->
@@ -26,7 +27,7 @@ $os_type = 'ios';
 	} else if ($os_type == 'android'){
 		include ('template-parts/modals/android-modal.php'); //Andoird Modal path
 	}
-	?>
+?>
 <!-- MODAL CONTENT SAMPLE STARTS HERE -->
 <!-- Modal -->
 <div class="modal fade" id="stept-1" tabindex="-1" aria-labelledby="stept-1Label" aria-hidden="true">
