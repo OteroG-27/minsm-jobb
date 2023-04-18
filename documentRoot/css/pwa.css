@@ -2911,11 +2911,11 @@ Version: 11.0.0
         background: none;
     }
 	
-	.modal-content > div:first-child{
+	/* .modal-content > div:first-child{
 		border-top-left-radius: 2rem;
 		border-top-right-radius: 2rem;
-	/*    background: red !important;*/
-	}
+	   background: red !important;
+	} */
 
 
 	.modal-content > div:nth-last-child(1){

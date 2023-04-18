@@ -35,8 +35,8 @@ $title = "Meldinger"; /*PAGE TITLE*/
 </div>
 
 <!--Default-->
-<div class="modal fade" id="profile">
-	<div class="modal-dialog text-center">
+<div class="modal" id="profile">
+	<div class="modal-dialog text-center m-0">
 		<div class="modal-content">	
 			<div class="modal-header grey-bg pt-5 pb-0">
 				<div class=" employer-details" style="display: flex;flex-direction: row;justify-content: center;align-items: center;padding: 0px;gap: 10px;">
