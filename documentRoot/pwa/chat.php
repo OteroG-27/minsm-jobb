@@ -38,7 +38,7 @@ $title = "Meldinger"; /*PAGE TITLE*/
 <div class="modal" id="profile">
   <div class="modal-dialog text-center m-0">
     <div class="modal-content">
-      <div class="modal-header grey-bg pt-5 pb-4">
+      <div class="modal-header grey-bg pt-4 pb-4">
         <div class=" employer-details" style="display: flex;flex-direction: row;justify-content: center;align-items: center;padding: 0px;gap: 10px;">
           <div class=" profile-picture 1122">
             <div class="picture-holder user-3246" style="background-image:url(https://minsmajobb.no/assets/uploads/Eirik-1675801962.png);width: 50px;height: 50px;">
@@ -72,12 +72,12 @@ $title = "Meldinger"; /*PAGE TITLE*/
       <div class="modal-body grey-bg">
         <div class="form-info white">Oppdragsgiver mobilnummer vil vise her om du får jobben</div>
         <br>
-        <p class="text-left">OM SMÅJOBBEN</p>
+        <p class="text-left mb-2">OM SMÅJOBBEN</p>
         <ul class="list-group">
-          <li class="list-group-item"><i class="fas fa-shipping-fast"></i> <a href="https://minsmajobb.no/finn/detail/28613"><strong> Rengjøre Tesla model S for salg</strong></a></li>
-          <li class="list-group-item"><i class="fas fa-money-bill-wave-alt"></i><strong> kr.&nbsp;220/time </strong></li>
-          <li class="list-group-item"><i class="fas fa-clock"></i> <strong>Tidspunkt avtales</strong></li>
-          <li class="list-group-item btn-map-info-popup " data-id="28613"><i class="fas fa-map-pin  "></i> <strong>Åpne kart</strong> </li>
+          <li class="list-group-item"><i class="fas fa-shipping-fast mr-2"></i> <a href="https://minsmajobb.no/finn/detail/28613"><strong> Rengjøre Tesla model S for salg</strong></a></li>
+          <li class="list-group-item"><i class="fas fa-money-bill-wave-alt mr-2"></i><strong> kr.&nbsp;220/time </strong></li>
+          <li class="list-group-item"><i class="fas fa-clock mr-2"></i> <strong>Tidspunkt avtales</strong></li>
+          <li class="list-group-item btn-map-info-popup " data-id="28613"><i class="fas fa-map-pin mr-2"></i> <strong>Åpne kart</strong> </li>
         </ul>
         <p class="text-left"><small>Dersom kontaktinformasion ikke er delt kan du trekke tilbake tilbudet om hjelp</small></p>
       </div>

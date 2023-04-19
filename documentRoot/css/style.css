@@ -1094,9 +1094,10 @@ footer .logo-footer svg {
 }
 
 .modal-content {
-  background: none;
+  /* background: none; */
   border: 0;
   width: 100%;
+  border-radius: 2rem;
 }
 
 .modal-body .info {
