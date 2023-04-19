@@ -1094,9 +1094,10 @@ footer .logo-footer svg {
 }
 
 .modal-content {
-  background: none;
+  /* background: none; */
   border: 0;
   width: 100%;
+  border-radius: 2rem;
 }
 
 .modal-body .info {
@@ -1125,11 +1126,11 @@ footer .logo-footer svg {
   border-radius: 0px;
 }
 
-.modal-content > div:first-child{
+/* .modal-content > div:first-child{
 	border-top-left-radius: 1rem;
 	border-top-right-radius: 1rem;
-/*    background: red !important;*/
-}
+   background: red !important;
+} */
 
 .modal-fullscreen .modal-content > div:first-child{
 	border-radius: 0px;
@@ -1715,13 +1716,13 @@ input.custom-control-input:checked
   margin: 0 0 5px;
 }
 
-.modal {
+/* .modal {
   background: transparent;
-  /* Note: currently only Safari supports backdrop-filter */
+  Note: currently only Safari supports backdrop-filter
   backdrop-filter: blur(16.54330062866211px);
   -webkit-backdrop-filter: blur(16.54330062866211px);
-  /* (plus shape's fill blended on top as a separate layer with 23% opacity) */
-}
+  (plus shape's fill blended on top as a separate layer with 23% opacity)
+} */
 
 .modal .content-popup p {
   /*   margin-top: 15px*/
@@ -2885,8 +2886,8 @@ input.hide {
 
 .personal-info .name {
   font-family: filson-soft, sans-serif;
-  font-weight: normal;
-  font-size: 21px;
+  font-weight: 600;
+  font-size: 25px;
   text-align: center;
   color: #465b61;
   line-height: 1;
@@ -10627,7 +10628,7 @@ a.btn-danger {
 .list-group-item {
   position: relative;
   display: block;
-  padding: 0.75rem 1.25rem;
+  padding: 0.25rem 0.25rem;
   margin-bottom: -1px;
   background-color: #fff;
   border: 1px solid rgba(0, 0, 0, 0.125);
