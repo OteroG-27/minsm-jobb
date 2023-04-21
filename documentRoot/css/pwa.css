@@ -3484,7 +3484,7 @@ ul.nav.nav-pills li a,
 	   background: red !important;
 	} */
 .modal-content:first-child {
-	animation-delay: 1s;
+	animation-delay: 0.1s;
 }
 
 .modal-content>div:nth-last-child(1) {
